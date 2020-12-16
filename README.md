@@ -1,3 +1,5 @@
+# NOTE: THIS IS A TEMPORARY SITE
+***
 # Landing Page
 
 Personal landing page for [madza.dev](https://madza.dev).
